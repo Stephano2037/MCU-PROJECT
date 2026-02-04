@@ -1,1 +1,13 @@
+*.ewp
+*.ewd
+*.ewt
 *.exe
+*.project
+*.dep
+*.pdf
+
+
+git_guideline.txt
+
+settings/
+Debug/
